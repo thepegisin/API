@@ -1,6 +1,28 @@
 Stage,Activity
-3,Tattoo parlors
+1,Gas stations
+1,Pharmacies
+1,Drug stores
 1,Grocery stores
-3,Public swimming pools
-2,Dine in restaurants
-1,Take out restaurants
+1,Farmers markets
+1,Food banks
+1,Convenience stores
+1,Take-out and delivery restaurants
+1,Banks
+1,Credit unions
+1,Laundromats and laundry services
+1,State and local government offices
+1,Police stations
+1,Fire stations
+1,Government services
+2a,Retailers
+2a,Shopping malls
+2a,Libraries (delivery and curbside pickup only)
+2a,Drive-in theaters
+2a,Bookstores
+2a,Jewelry stores
+2a,Toy stores
+2a,Clothing stores
+2a,Shoe stores
+2a,Home and furnishing stores
+2a,Sporting goods stores
+2a,Florists
