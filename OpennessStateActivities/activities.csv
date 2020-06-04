@@ -39,11 +39,10 @@ Stage,Activity
 3,Nail salons
 3,Tattoo parlors
 3,Massage services
-3,Bars and nightclubs
+3,Bars
 3,Movie theaters
 3,Arcades
 3,Gyms and fitness studios
-3,Public gatherings like live sports with an audience
 3,Convention centers
 3,Community centers
 3,Public pools
@@ -57,3 +56,6 @@ Stage,Activity
 3,Gallery spaces
 3,Zoos
 3,Libraries
+4,Nightclubs
+4,Concert venues
+4,Public gatherings like live sports with an audience
