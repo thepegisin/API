@@ -6,7 +6,7 @@ Stage,Activity
 1,Food banks
 1,Convenience stores
 1,Take-out and delivery restaurants
-1,Banks
+1,Banks and credit unions
 1,Laundromats and laundry services
 1,State and local government offices
 1,Government services
@@ -14,3 +14,4 @@ Stage,Activity
 1,Fire stations
 1,Hospitals and urgent care
 1,Doctors and dentists
+2,Retailers
