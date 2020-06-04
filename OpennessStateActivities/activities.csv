@@ -14,4 +14,25 @@ Stage,Activity
 1,Fire stations
 1,Hospitals and urgent care
 1,Doctors and dentists
-2,Retailers
+2a,Retailers
+2a,Shopping malls
+2a,Libraries (delivery and curbside pickup only)
+2a,Drive-in theaters
+2a,Bookstores
+2a,Jewelry stores
+2a,Toy stores
+2a,Clothing and shoe stores
+2a,Home and furnishing stores
+2a,Sporting goods stores
+2a,Florists
+2a,Offices
+2a,Pet groomers
+2a,Dog walkers
+2a,Carwashes
+2a,Appliance repair
+2a,Residential and janitorial cleaning
+2a,Places of worship
+2a,Plumbing
+2a,Outdoor museums
+2b,Dine-in restaurants
+2b,Hair salons and barbershops
