@@ -36,10 +36,21 @@ Stage,Activity
 2a,Outdoor museums
 2b,Dine-in restaurants
 2b,Hair salons and barbershops
+2b,Hotels and lodging for tourism and individual travel
+2b,Recorded music production
+2b,Film and TV production
+2b,Professional sports without an audience
+2b,Cardrooms and racetracks
+2b,Campgrounds
+2b,Casinos
+2b,Schools
+2b,Day camps
+2c,Family entertainment centers
+2c,Bars and wineries
+2c,Zoos
+2c,Museums
 3,Nail salons
 3,Tattoo parlors
-3,Massage services
-3,Bars
 3,Movie theaters
 3,Arcades
 3,Gyms and fitness studios
@@ -49,12 +60,8 @@ Stage,Activity
 3,Playgrounds
 3,Picnic areas
 3,Theme parks and festivals
-3,Hotels and lodging for non-essential travel
 3,Higher education
-3,Indoor museums
-3,Kids' museums
 3,Gallery spaces
-3,Zoos
 3,Libraries
 4,Nightclubs
 4,Concert venues
