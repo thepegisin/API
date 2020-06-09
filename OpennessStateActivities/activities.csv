@@ -41,11 +41,14 @@ Stage,Activity
 2b,Hair salons and barbershops
 2b,Casinos
 2c,Family entertainment centers
-2c,Wineries and restaurants with bars
+2c,Movie theaters
+2c,Wineries
+2c,Bars and restaurants with bars
 2c,Zoos
 2c,Museums
 2c,Gyms and fitness centers
 2c,Hotels and lodging for tourism and individual travel
+2c,Short-term lodging rentals for tourism and individual travel
 2c,Cardrooms and racetracks
 2c,Campgrounds and outdoor recreation
 3,Day camps
@@ -53,7 +56,7 @@ Stage,Activity
 3,Nail salons
 3,Tattoo parlors
 3,Body waxing
-3,Movie theaters and live theater
+3,Live theater
 3,Saunas and steam rooms
 3,Theme parks
 3,Festivals
